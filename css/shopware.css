@@ -1,0 +1,89 @@
+/*
+@theme shopware
+@auto-scaling true
+*/
+
+@import 'gaia';
+@import 'highlightjs';
+
+section {
+    font-family: "Brandon Text";
+    background: #111;
+    color:white;
+}
+h1 {
+    color: white;
+}
+li {
+    font-size: 1.2rem;
+    vertical-align: middle;
+}
+
+section.black h1 {
+    color: black;
+}
+
+section.black li {
+    color: black;
+}
+
+h1 img {
+    vertical-align: middle;
+}
+
+h2 img {
+    vertical-align: middle;
+}
+
+footer img {
+    vertical-align: middle;
+}
+
+footer {
+    background-color: #189eff;
+    height: 1.4rem;
+    line-height: 1.3rem;
+    padding: 0px 20px;
+    color: white;
+    vertical-align: middle;
+}
+
+li img {
+    vertical-align: middle;
+}
+
+blockquote {
+    border-left: 10px solid #ccc;
+    padding-left: 0.5em;
+    quotes: none;
+    margin-top: 2%;
+    margin-bottom: 0%;
+    display:inline-flex;
+}
+blockquote ul {
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+blockquote ul li{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+q {
+    quotes: none;
+}
+
+blockquote:before {
+    content: none;
+
+}
+blockquote:after {
+    content: none;
+}
+ul {
+    margin-top: 2.5%;;
+}
+pre {
+    margin-top: 0.5em;
+    background-color: #282828 !important;
+}
+
