@@ -4,7 +4,7 @@ footer: 'UX Improvements of Forms
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 ![w:150](img/sw-logo.svg) 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-Martina Linnemann'
+Martina Staffa'
 theme: 'shopware'
 ---
 <!-- _class: lead -->
@@ -23,9 +23,9 @@ theme: 'shopware'
 
 # Who am I?
 
-- Martina Linnemann
-- Software Engineer in Operations @ shopware AG
-- Developer for over 6 years 
+- Martina Staffa
+- Software Engineer @ shopware AG
+- Developer for over 7 years 
 
 ---
 <!-- _class: lead -->
@@ -276,7 +276,7 @@ Imagine your browser has autosaved your address, email address etc., you want to
 
 # Let's discuss
 
-Martina Linnemann
+Martina Staffa
 
 ![w:60](img/Linkedin-logo-without-transparent.png) 
 
@@ -288,7 +288,7 @@ Martina Linnemann
 
 ![w:40](img/logo-white.png)
 
-![bg contain right](img/qr_code-shopware-card.png)
+![bg contain right](img/qr_code_shopware_card.png)
 
 ![bg right:30%](img/test.png)
 
